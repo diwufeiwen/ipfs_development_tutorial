@@ -1,5 +1,5 @@
 ## IPFS应用开发教程
-#### 古千峰@BTCMedia、IPFSForce
+#### 古千峰 JackyGu@BTCMedia、IPFSForce
 
 一、js-ipfs
 
