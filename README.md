@@ -54,7 +54,7 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 [hardbin](https://hardbin.com) - 一个分布式的文本分享工具
 
-[eternum](www.eternum.io) - 收费存储工具
+[eternum](https://www.eternum.io) - 收费存储工具
 
 [Markdown](https://www.eternum.io/ipfs/QmRWeczoWjVoZSY4cvTAp6YaGJSwYJSWvANHXaHiNVd8to/) - 分布式Markdown工具
 
