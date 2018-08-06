@@ -48,7 +48,9 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 6- Git 版本控制技术
 
-### 附：IPFS应用列表
+### 附：
+
+1- [IPFS应用列表](doc/samples.md)
 
 [d.tube](https://d.tube/) - 一个类似与youtube的视频网站
 
@@ -62,4 +64,4 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 [Filenation](https://filenation.io/) - 文件分享工具
 
-
+[Originprotocol](demo.originprotocol.com) - 图片分享与购买网站
