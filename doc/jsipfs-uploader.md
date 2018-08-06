@@ -2,9 +2,13 @@
 By 古千峰 Jacky@BTCMedia、IPFSForce
 
 ### 第一章、基础篇
-#### 1- ipfs安装、add与get
+#### 1- IPFS安装与启动
 
-#### 2- 路由Gateway访问
+#### 2- add、get与cat
+
+#### 3- pin命令
+
+#### 4- 路由Gateway访问
 
 [点击检测路由性能](https://ipfs.github.io/public-gateway-checker)
 
@@ -16,7 +20,7 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 [https://www.eternum.io/ipfs/QmeqLsSuRW61nPPpwYDLYttTGa1g2tW13ZFby8S4ucwQfM](https://www.eternum.io/ipfs/QmeqLsSuRW61nPPpwYDLYttTGa1g2tW13ZFby8S4ucwQfM)
 
-#### 3- 架设Gateway
+#### 5- 架设Gateway
 
 ### 第二章、编程篇
 
