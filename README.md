@@ -22,6 +22,8 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 5- 架设Gateway
 
+#### 6- 架设IPFS私有网络
+
 ### 第二章、编程篇
 
 #### 1- [js-ipfs基础](https://github.com/eoshackathon/ipfs_development_tutorial/blob/master/doc/jsipfs-api.md)
