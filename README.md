@@ -48,7 +48,7 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 6- Git 版本控制技术
 
-附：IPFS应用列表
+### 附：IPFS应用列表
 
 [d.tube](https://d.tube/) - 一个类似与youtube的视频网站
 
