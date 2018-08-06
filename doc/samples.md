@@ -10,7 +10,7 @@ by 古千峰Jacky
 
 * [eternum](https://www.eternum.io) - 收费存储工具
 
-* [Markdown](https://www.eternum.io/ipfs/QmRWeczoWjVoZSY4cvTAp6YaGJSwYJSWvANHXaHiNVd8to/) - 分布式Markdown工具
+* [IPFessay](https://www.eternum.io/ipfs/QmRWeczoWjVoZSY4cvTAp6YaGJSwYJSWvANHXaHiNVd8to/) - 分布式Markdown工具
 
 * [Orbit](https://orbit.chat) - 聊天工具
 
