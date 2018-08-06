@@ -122,4 +122,5 @@ module.exports = App
 * 添加文件名与描述，上传只数据库，可以成为一个可搜索的IPFS资源库。
 
 如下图：
+
 ![](http://images.laidingyi.com/18-8-6/63217243.jpg)
