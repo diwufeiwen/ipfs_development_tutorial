@@ -14,8 +14,8 @@ npm install ipfs-api
 
 2- 安装`nodejs`和`npm`
 
-#### 二、下载源码包
-[下载地址](https://www.eternum.io/ipfs/QmdzjGqHfUa7hK4gQq4G6U4XpLZ3iBMHvBhQWaktTpBYVh)
+#### 二、下载应用源码
+从IPFS网络下载：[下载地址](https://www.eternum.io/ipfs/QmdzjGqHfUa7hK4gQq4G6U4XpLZ3iBMHvBhQWaktTpBYVh)
 
 #### 三、安装
 将源码压缩包解压，进入解压后的目录`upload-file-via-browser\`中，执行：
