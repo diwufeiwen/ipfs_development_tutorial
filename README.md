@@ -38,13 +38,13 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 1- Katemlia
 
-#### 2- ICE NET & NAT 穿透技术
+#### 2- BitSwap
 
-#### 3- DSHT
+#### 3- Merkle-DAG
 
-#### 4- BitSwap
+#### 4- ICE NET & NAT 穿透技术
 
-#### 5- Merkle-DAG
+#### 5- DSHT
 
 #### 6- Git 版本控制技术
 
