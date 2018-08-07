@@ -30,9 +30,11 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 2- [使用React+ipfs-api开发一个多媒体文件分享系统](https://github.com/eoshackathon/ipfs_development_tutorial/blob/master/doc/jsipfs-uploader.md)
 
-#### 3- Embark+IPFS 开发一个以太坊DAPP
+#### 3- [Truffle以太坊开发环境搭建](truffle_ethereum.md)
 
-#### 4- IPFS与EOS联合编程开发DAPP
+#### 4- Truffle+IPFS 开发一个以太坊DAPP
+
+#### 5- IPFS与EOS联合编程开发DAPP
 
 ### 第三章、IPFS理论篇
 
