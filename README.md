@@ -26,11 +26,11 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 ### 第二章、编程篇
 
-#### 1- [js-ipfs基础](https://github.com/eoshackathon/ipfs_development_tutorial/blob/master/doc/jsipfs-api.md)
+#### 1- [js-ipfs基础](doc/jsipfs-api.md)
 
-#### 2- [使用React+ipfs-api开发一个多媒体文件分享系统](https://github.com/eoshackathon/ipfs_development_tutorial/blob/master/doc/jsipfs-uploader.md)
+#### 2- [使用React+ipfs-api开发一个多媒体文件分享系统](doc/jsipfs-uploader.md)
 
-#### 3- [Truffle以太坊开发环境搭建](truffle_ethereum.md)
+#### 3- [Truffle以太坊开发环境搭建](doc/truffle_ethereum.md)
 
 #### 4- Truffle+IPFS 开发一个以太坊DAPP
 
