@@ -32,9 +32,11 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 3- [Truffle以太坊开发环境搭建](doc/truffle_ethereum.md)
 
-#### 4- Truffle+IPFS 开发一个以太坊DAPP
+#### 4- 从零开始开发一个完整的以太坊猜数字游戏
 
-#### 5- IPFS与EOS联合编程开发DAPP
+#### 5- 解读Fomo3D游戏智能合约
+
+#### 6- IPFS与EOS联合编程开发DAPP
 
 ### 第三章、IPFS理论篇
 
