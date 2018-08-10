@@ -30,13 +30,15 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 2- [使用React+ipfs-api开发一个多媒体文件分享系统](doc/jsipfs-uploader.md)
 
-#### 3- [Truffle以太坊开发环境搭建](doc/truffle_ethereum.md)
+#### 3- [Truffle开发环境搭建](doc/truffle_ethereum.md)
 
-#### 4- 从零开始开发一个完整的以太坊猜数字游戏
+#### 4- [从零开始开发一个完整的以太坊猜数字游戏应用](doc/casino-ethereum.md)
 
 #### 5- 解读Fomo3D游戏智能合约
 
-#### 6- IPFS与EOS联合编程开发DAPP
+#### 6- 使用预言机Oraclize获取真实随机数并打通链上链下数据
+
+#### 7- IPFS与EOS联合编程开发DAPP
 
 ### 第三章、IPFS理论篇
 
@@ -46,11 +48,11 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 3- Merkle-DAG
 
-#### 4- ICE NET & NAT 穿透技术
+#### 4- Git 版本控制技术
 
-#### 5- DSHT
+#### 5- ICE NET & NAT 穿透技术
 
-#### 6- Git 版本控制技术
+#### 6- DSHT
 
 ### 附：
 
