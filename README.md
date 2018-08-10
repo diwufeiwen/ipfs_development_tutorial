@@ -22,9 +22,9 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 3- [Truffle开发环境搭建](doc/truffle_ethereum.md)
 
-#### 4- [基于zeppellin创建一个安全简单的ERC20合约](erc20_simple.md)
+#### 4- [基于zeppellin创建一个安全简单的ERC20合约](doc/erc20_simple.md)
 
-#### 5- [创建一个复杂的ERC20合约]()
+#### 5- [创建一个复杂的ERC20合约](doc/)
 
 #### 6- [从零开始开发一个完整的以太坊猜数字游戏应用](doc/casino-ethereum.md)
 
