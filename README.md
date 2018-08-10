@@ -8,11 +8,11 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 3- pin命令
 
-#### 4- 路由Gateway访问
+#### 4- [路由Gateway访问](doc/use_gateway.md)
 
-#### 5- 架设Gateway
+#### 5- [架设Gateway](doc/build_gateway.md)
 
-#### 6- 架设IPFS私有网络
+#### 6- [架设IPFS私有网络](doc/build_private_ipfs.md)
 
 ### 第二章、编程篇
 
