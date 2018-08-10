@@ -34,7 +34,7 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 4- [从零开始开发一个完整的以太坊猜数字游戏应用](doc/casino-ethereum.md)
 
-#### 5- 解读Fomo3D游戏智能合约
+#### 5- [解读Fomo3D游戏智能合约](doc/fomo3d_explain.md)
 
 #### 6- 使用预言机Oraclize获取真实随机数并打通链上链下数据
 
