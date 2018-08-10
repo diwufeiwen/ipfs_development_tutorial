@@ -36,9 +36,15 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 5- [解读Fomo3D游戏智能合约](doc/fomo3d_explain.md)
 
-#### 6- 使用预言机Oraclize获取真实随机数并打通链上链下数据
+#### 6- 使用预言机Oraclize获取随机数与链下可信信息
 
 #### 7- IPFS与EOS联合编程开发DAPP
+
+#### 8- [EOS官方Dice游戏合约代码详解](https://github.com/eoshackathon/eos_dapp_development_cn/blob/master/docs/dice_contract_1.md)
+
+#### 9- 从以太坊智能合约到EOS智能合约
+
+#### 10- [EOS技术手册](https://github.com/eoshackathon/eos_dapp_development_cn)
 
 ### 第三章、IPFS理论篇
 
