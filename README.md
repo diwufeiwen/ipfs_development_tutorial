@@ -44,7 +44,7 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 9- 从以太坊智能合约到EOS智能合约
 
-#### 10- [EOS技术手册](https://github.com/eoshackathon/eos_dapp_development_cn)
+#### 10- [EOS技术参考手册](https://github.com/eoshackathon/eos_dapp_development_cn)
 
 ### 第三章、IPFS理论篇
 
