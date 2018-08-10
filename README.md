@@ -2,7 +2,7 @@
 By 古千峰 Jacky@BTCMedia、IPFSForce
 
 ### 第一章、基础篇
-#### 1- IPFS安装与启动
+#### 1- [IPFS安装与启动](doc/ipfs_setup.md)
 
 #### 2- add、get与cat
 
