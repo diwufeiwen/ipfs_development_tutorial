@@ -10,6 +10,8 @@ by 古千峰Jacky
 
 * [bit.tube](https://bit.tube) - 一个视频网站，可参与挖矿
 
+* [dsound.audio](https://dsound.audio) - 一个音频分享服务，可上传音频
+
 * [hardbin](https://hardbin.com) - 一个分布式的文本分享工具
 
 * [eternum](https://www.eternum.io) - 收费存储工具
