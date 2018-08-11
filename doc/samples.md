@@ -6,6 +6,10 @@ by 古千峰Jacky
 
 * [d.tube](https://d.tube/) - 一个类似与youtube的视频网站
 
+* [dlive](https://dlive.io) - 一个视频直播网站
+
+* [bit.tube](https://bit.tube) - 一个视频网站，可参与挖矿
+
 * [hardbin](https://hardbin.com) - 一个分布式的文本分享工具
 
 * [eternum](https://www.eternum.io) - 收费存储工具
