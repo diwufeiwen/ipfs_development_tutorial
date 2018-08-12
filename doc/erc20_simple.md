@@ -22,7 +22,7 @@ ERC20合约也成为代币合约，由以下6个标准函数组成：
 
 #### 如何使用zeppelin开发ERC20合约
 
-##### 1- 创建`Truffle`项目框架
+#### 1- 创建`Truffle`项目框架
 
 新建项目目录，进到该目录，输入：
 
@@ -32,7 +32,7 @@ npm init
 npm install zeppelin-solidity
 ```
 
-##### 2- 创建合约
+#### 2- 创建合约
 
 进到`contracts`目录，创建文件`ERC20_A.sol`，在该文件中输入：
 
@@ -58,7 +58,7 @@ contract ERC20_A is StandardToken {
 
 以上就是基于`zeppelin`的`ERC20`合约代码。
 
-##### 3- 部署合约
+#### 3- 部署合约
 
 进到`migrations`目录，创建文件`2_deploy_migration.js`文件，输入：
 
@@ -70,7 +70,7 @@ module.exports = function (deployer) {
 };
 ```
 
-##### 4- 在truffle中调试合约
+#### 4- 在truffle中调试合约
 
 * 执行命令：
 
@@ -140,14 +140,24 @@ contract.transfer(web3.eth.accounts[1], 600000)
 ```
 
 * 查看#1账户余额
-* 
 ```
 contract.balanceOf(web3.eth.accounts[1])
 ```
 
 *在develop模式下，可以调试所有的web3.js命令*
 
-##### 5- 将合约部署到测试网络Ropsten
+#### 5- 在Remix中调试合约
+将`import`语句改为如下即可：
+
+```
+import "github.com/OpenZeppelin/zeppelin-solidity/contracts/token/ERC20/StandardToken.sol";
+```
+在编译时，会自动将`github`的库导入。
+
+调试时，在`Remix`工具中的合约地址中，填入部署的合约地址即可。
+
+
+#### 6- 将合约部署到测试网络Ropsten
 
 首先到[infura.io](https://infura.io/)，注册账户，并获取`API key`。
 
