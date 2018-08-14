@@ -59,3 +59,6 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 ### 附：
 
 1- [IPFS应用列表](doc/samples.md)
+
+2- [以太坊单位换算器](https://etherconverter.online/)
+
