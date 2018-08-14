@@ -32,7 +32,7 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 8- [解读Fomo3D游戏智能合约](doc/fomo3d_explain.md)
 
-#### 9- 使用预言机Oraclize获取随机数与链下可信信息
+#### 9- [使用预言机Oraclize获取随机数与链下可信信息](doc/oraclize_random.md)
 
 #### 10- IPFS与EOS联合编程开发DAPP
 
