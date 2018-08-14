@@ -29,3 +29,18 @@
 * `volume+=0.1`         - 音量加大，或者减少
 
 * `muted=true`          - 静音，或者false，打开声音
+
+css文件：
+
+```
+video {
+	border: 1px solid black;
+	padding: 0;
+	margin: 0;
+	width: 500px;
+	height: 336px;
+	background-color: black;
+	margin: auto;
+	display: block;
+}
+```
