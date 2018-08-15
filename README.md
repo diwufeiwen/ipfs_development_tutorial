@@ -26,7 +26,7 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 5- [基于zeppellin创建一个安全简单的ERC20合约](doc/erc20_simple.md)
 
-#### 6- 创建一个复杂的ERC20合约
+#### 6- [创建一个复杂的ERC20合约](doc/complex_erc20.md)
 
 #### 7- [从零开始开发一个完整的以太坊猜数字游戏应用](doc/casino-ethereum.md)
 
