@@ -403,3 +403,7 @@ contract ERC20_B is StandardToken {
     }
 }
 ```
+
+以上合约已经部署在Ropsten测试网络上，网址：https://ropsten.etherscan.io/address/0x039cc582ba306524c85989b583cfa23f8041329f
+
+合约地址:0x039Cc582Ba306524c85989B583cFA23f8041329F
