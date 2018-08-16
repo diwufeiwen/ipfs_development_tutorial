@@ -20,7 +20,7 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 2- [使用React+ipfs-api开发一个多媒体文件分享系统](doc/jsipfs-uploader.md)
 
-#### 3- [结合以太坊做一个收费的文件分享系统](doc/ethereum_ipfs.md)
+#### 3- [用以太坊将IPFS存储Hash永久保存](doc/ethereum_ipfs.md)
 
 #### 3- [基于HTML5的IPFS播放器](doc/ipfs_video.md)
 
