@@ -20,8 +20,6 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 2- [使用React+ipfs-api开发一个多媒体文件分享系统](doc/jsipfs-uploader.md)
 
-#### 3- [Gas价格计算](doc/gas_price.md)
-
 #### 3- [基于HTML5的IPFS播放器](doc/ipfs_video.md)
 
 #### 4- [Truffle开发环境搭建](doc/truffle_ethereum.md)
@@ -64,5 +62,7 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 2- [以太坊单位换算器](https://etherconverter.online/)
 
-3- [以太坊Gas价格查询](https://ethgasstation.info/)
+3- [以太坊合约部署与执行成本计算](doc/gas_price.md)
+
+4- [以太坊Gas价格查询](https://ethgasstation.info/)
 
