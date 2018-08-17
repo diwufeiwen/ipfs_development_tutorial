@@ -34,7 +34,7 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 9- [使用预言机Oraclize获取随机数与链下可信信息](doc/oraclize_random.md)
 
-#### 10- IPFS与EOS联合编程开发DAPP
+#### 10- 用EOS和IPFS开发一个知识产权保护平台
 
 #### 11- [EOS官方Dice游戏合约代码详解](https://github.com/eoshackathon/eos_dapp_development_cn/blob/master/docs/dice_contract_1.md)
 
