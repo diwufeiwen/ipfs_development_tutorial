@@ -26,27 +26,33 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 ### 第二节：以太坊智能合约
 
-#### 4- [以太坊智能合约开发环境搭建](doc/truffle_ethereum.md)
+#### 4- [开发环境搭建](doc/truffle_ethereum.md)
 
 #### 5- [智能合约入门](doc/smartcontract_base.md)
 
-#### 6- [一个简单的ERC20合约](doc/erc20_simple.md)
+#### 6- [简单的ERC20合约](doc/erc20_simple.md)
 
-#### 7- [一个复杂的ERC20合约](doc/complex_erc20.md)
+#### 7- [复杂的ERC20合约](doc/complex_erc20.md)
 
-#### 8- [解读Fomo3D游戏智能合约](doc/fomo3d_explain.md)
+#### 8- [复杂游戏Fomo3D智能合约解读](doc/fomo3d_explain.md)
+
+#### 9- ERC721合约入门
+
+#### 10- 基于ERC721标准的特殊资产类合约
+
+#### 11- 以太猫合约解读
 
 ### 第三节：区块链应用混合编程
 
-#### 9- [从零开始开发一个完整的以太坊猜数字游戏应用](doc/casino-ethereum.md)
+#### 12- [从零开始开发一个完整的以太坊猜数字游戏应用](doc/casino-ethereum.md)
 
-#### 10- [使用预言机Oraclize获取随机数与链下可信信息](doc/oraclize_random.md)
+#### 13- [使用预言机Oraclize获取随机数与链下可信信息](doc/oraclize_random.md)
 
-#### 11- 用ETH或EOS和IPFS开发数字版权保护平台
+#### 14- 用ETH或EOS和IPFS开发数字版权保护平台
 
-#### 12- [EOS官方Dice游戏合约代码详解](https://github.com/eoshackathon/eos_dapp_development_cn/blob/master/docs/dice_contract_1.md)
+#### 15- [EOS官方Dice游戏合约代码详解](https://github.com/eoshackathon/eos_dapp_development_cn/blob/master/docs/dice_contract_1.md)
 
-#### 13- [EOS技术参考手册](https://github.com/eoshackathon/eos_dapp_development_cn)
+#### 16- [EOS技术参考手册](https://github.com/eoshackathon/eos_dapp_development_cn)
 
 ### 第三章、IPFS理论篇
 
