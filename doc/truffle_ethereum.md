@@ -89,4 +89,6 @@ truffle test
 
 ##### 5- 使用`infura`的API，通过`Metamask`的`HDWalletProvider`通道部署到测试网络中
 
+建议较大的智能合约，而且无法从`github`上直接导入库的时候，使用此方法。
+
 （以上方法将在下节课中讲述）
