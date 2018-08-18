@@ -126,6 +126,7 @@ Saving artifacts...
 ```
 ERC20_A.deployed().then(instance => contract = instance)
 ```
+此命令将ERC20_A合约的实例赋值给`contract`变量。
 
 * 查看`coinbase`代币发行总数，执行以下命令。`balanceOf`是6个标准的ERC20函数之一。
 
