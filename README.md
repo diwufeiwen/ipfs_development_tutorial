@@ -16,31 +16,35 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 ### 第二章、编程篇
 
+### 第一节：IPFS编程
+
 #### 1- [js-ipfs基础](doc/jsipfs-api.md)
 
 #### 2- [使用React+ipfs-api开发一个多媒体文件分享系统](doc/jsipfs-uploader.md)
 
 #### 3- [基于HTML5的IPFS播放器](doc/ipfs_video.md)
 
-#### 4- [Truffle开发环境搭建](doc/truffle_ethereum.md)
+### 第二节：以太坊智能合约
 
-#### 5- [基于zeppellin创建一个安全简单的ERC20合约](doc/erc20_simple.md)
+#### 4- [以太坊智能合约开发环境搭建](doc/truffle_ethereum.md)
 
-#### 6- [创建一个复杂的ERC20合约](doc/complex_erc20.md)
+#### 5- [一个简单的ERC20合约](doc/erc20_simple.md)
 
-#### 7- [从零开始开发一个完整的以太坊猜数字游戏应用](doc/casino-ethereum.md)
+#### 6- [一个复杂的ERC20合约](doc/complex_erc20.md)
 
-#### 8- [解读Fomo3D游戏智能合约](doc/fomo3d_explain.md)
+#### 7- [解读Fomo3D游戏智能合约](doc/fomo3d_explain.md)
+
+### 第三节：区块链应用混合编程
+
+#### 8- [从零开始开发一个完整的以太坊猜数字游戏应用](doc/casino-ethereum.md)
 
 #### 9- [使用预言机Oraclize获取随机数与链下可信信息](doc/oraclize_random.md)
 
-#### 10- 用EOS和IPFS开发一个数字版权保护平台
+#### 10- 用ETH或EOS和IPFS开发数字版权保护平台
 
 #### 11- [EOS官方Dice游戏合约代码详解](https://github.com/eoshackathon/eos_dapp_development_cn/blob/master/docs/dice_contract_1.md)
 
-#### 12- 从以太坊智能合约到EOS智能合约
-
-#### 13- [EOS技术参考手册](https://github.com/eoshackathon/eos_dapp_development_cn)
+#### 12- [EOS技术参考手册](https://github.com/eoshackathon/eos_dapp_development_cn)
 
 ### 第三章、IPFS理论篇
 
